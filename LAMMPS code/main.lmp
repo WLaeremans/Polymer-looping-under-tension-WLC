@@ -4,7 +4,7 @@ units 	 lj
 atom_style angle
 boundary 	 s s s
 
-read_data 	 catchbond50.data extra/bond/per/atom 50 extra/special/per/atom 50
+read_data 	 polymer50.data extra/bond/per/atom 50 extra/special/per/atom 50
 
 # interactions 
 
